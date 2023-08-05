@@ -1,0 +1,7 @@
+//************ Declare and initialize a multidimensional array represent the matrix: ***********/ 
+
+// var arr = [[0,1,2,3],[1,0,1,2],[2,1,0,1]];
+
+// console.log(arr[0].join(" ") );
+// console.log(arr[1].join(" ") );
+// console.log(arr[2].join(" ") );
