@@ -12,3 +12,11 @@
 // for (var i = 1; i <= 10; i++){
 //     console.log(i);
 // }
+
+
+//*********** take input from user and show any multipication table  ***********/
+
+// var table = prompt("write a number.");
+// for (var i = 1; i <= 10; i++) {
+//     console.log(table + " X " + i + " = " + i * table);
+// }
