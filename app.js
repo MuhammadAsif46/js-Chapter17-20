@@ -41,3 +41,11 @@
 // console.log(fruits[2]);
 // console.log(fruits[3]);
 // console.log(fruits[4]);
+
+
+
+//*********** Print items array using for loop   ***********/
+
+// var count = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
+
+// console.log(count);
