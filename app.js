@@ -20,3 +20,12 @@
 // for (var i = 1; i <= 10; i++) {
 //     console.log(table + " X " + i + " = " + i * table);
 // }
+
+
+//*********** take input from user table number & length  ***********/
+
+// var table = prompt("write a number.");
+// var length = prompt("enter a table length.");
+// for (var i = 1; i <= length; i++) {
+//     console.log(table + " X " + i + " = " + i * table);
+// }
