@@ -5,3 +5,10 @@
 // console.log(arr[0].join(" ") );
 // console.log(arr[1].join(" ") );
 // console.log(arr[2].join(" ") );
+
+
+//*********** Print numeric counting from 1 to 10 ***********/
+
+// for (var i = 1; i <= 10; i++){
+//     console.log(i);
+// }
