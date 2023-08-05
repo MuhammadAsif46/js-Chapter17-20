@@ -49,3 +49,26 @@
 // var count = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
 
 // console.log(count);
+
+
+
+//************ take input from user and show the given item is found in the list or not ************/
+
+// var bakery = ["cake", "apple pie", "cookie", "chips", "patties"];
+// var user = prompt("welcome to ABC bakery,what do you want?");
+
+// if (user === bakery[0]){
+//     alert(bakery[0] + " : is Available at index 0 in our bakery.");
+// }else if (user === bakery[1]){
+//     alert(bakery[1] + " : is Available at index 1 in our bakery.");
+// }else if (user === bakery[2]){
+//     alert(bakery[2] + " : is Available at index 2 in our bakery.");
+// }else if (user === bakery[3]){
+//     alert(bakery[3] + " : is Available at index 3 in our bakery.");
+// }else if (user === bakery[4]){
+//     alert(bakery[4] + " : is Available at index 4 in our bakery.");
+// }else{
+//     alert("we are sorry, " + user + " : is not available is our bakery.");
+// }
+
+
