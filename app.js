@@ -29,3 +29,15 @@
 // for (var i = 1; i <= length; i++) {
 //     console.log(table + " X " + i + " = " + i * table);
 // }
+
+
+//*********** Print items array using for loop   ***********/
+
+// var fruits = ["Apple", "Mango", "Banana", "Orange", "Strawberry"];
+
+// for (var i = 0; i < fruits.length; i++) {}
+// console.log(fruits[0]);
+// console.log(fruits[1]);
+// console.log(fruits[2]);
+// console.log(fruits[3]);
+// console.log(fruits[4]);
