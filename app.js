@@ -72,3 +72,14 @@
 // }
 
 
+//*************** In which largest number in the givrn array *****************/
+
+// var num = [24,53,78,91,12];
+// var max = num[0];
+// for (var i = 0; i < num.length; i++){
+//    if (num[i] > max){
+//      max = num[i];
+//    }
+// }
+// console.log("Array Items : " + num )
+// console.log("The largest number is : "+ max);
