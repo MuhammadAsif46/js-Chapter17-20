@@ -97,3 +97,12 @@
 // }
 // console.log("Array Items : " + num )
 // console.log("The smallest number is : " + max);
+
+
+//*************** print multiples of 5 ranging 1 to 100. *****************/
+
+// var table = 5;
+// for (var i = 1; i <= 20; i++) {
+
+//     console.log( i * table + ",");
+// }
